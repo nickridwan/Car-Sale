@@ -141,7 +141,7 @@ header.shadow #search-icon {
   color: var(--main-color);
 }
 .home-text p {
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-weight: 300;
   margin: 0.5rem 0 3rem;
 }
